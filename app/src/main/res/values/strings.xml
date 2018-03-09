@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListsTabs</string>
+    <string name="str_tab_1">tab 1</string>
+    <string name="str_tab_2">tab 2</string>
+</resources>
